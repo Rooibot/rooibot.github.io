@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="rr"
+                 name="Unreal Development References"
+                  start-page="Intro.md">
+
+    <toc-element topic="Intro.md"/>
+    <toc-element topic="General-Movement-Component.md">
+        <toc-element topic="GMC-Overview.md"/>
+        <toc-element topic="Useful-GMC-Resources.md"/>
+    </toc-element>
+</instance-profile>
