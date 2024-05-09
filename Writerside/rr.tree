@@ -8,6 +8,7 @@
 
     <toc-element topic="Intro.md"/>
     <toc-element topic="General-Movement-Component.md">
+        <toc-element topic="Organic-Movement.md"/>
         <toc-element topic="GMC-Overview.md"/>
         <toc-element topic="Useful-GMC-Resources.md"/>
     </toc-element>
